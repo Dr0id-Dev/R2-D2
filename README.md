@@ -4,5 +4,4 @@ Build Log for the loveable R2-D2.<br>
 <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_1925.jpeg" alt="R2-D2 Image" width="200">
 <video width="400" controls>
   <source src="https://github.com/Dr0id-Dev/R2-D2/raw/main/videos/IMG_2633.mov" type="IMG_2633.mov">
-  Your browser does not support the video tag.
 </video>
