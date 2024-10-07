@@ -20,5 +20,20 @@ Build Log for the loveable R2-D2.<br>
 
 <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2629.jpeg" alt="R2-D2 Image" width="200">
 
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2630.jpeg" alt="R2-D2 Image" width="200">
+
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2630.jpeg" alt="R2-D2 Image" width="200">
+
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2631.jpeg" alt="R2-D2 Image" width="200">
+
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2683.jpeg" alt="R2-D2 Image" width="200">
+
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2685.jpeg" alt="R2-D2 Image" width="200">
+
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2687.jpeg" alt="R2-D2 Image" width="200">
+
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2700.jpeg" alt="R2-D2 Image" width="200">
+
+
 
 
