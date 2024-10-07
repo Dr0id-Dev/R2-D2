@@ -11,7 +11,7 @@ Some highlights!
   <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_1926.jpeg" alt="Image 2" width="300" style="display: inline; margin: 5px;" />
   <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2042.jpeg" alt="Image 3" width="300" style="display: inline; margin: 5px;" />
   <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_1925.jpeg" alt="Image 3" width="300" style="display: inline; margin: 5px;" />
-  <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2049.jpeg.jpeg" alt="Image 3" width="300" style="display: inline; margin: 5px;" />
+  <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/IMG_2049.jpeg" alt="Image 3" width="300" style="display: inline; margin: 5px;" />
   
 </p>
 
