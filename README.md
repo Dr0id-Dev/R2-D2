@@ -1,6 +1,11 @@
 # R2-D2
+
+<img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/output (1)22.jpg" alt="R2-D2 Image">
+
 Build Log for the loveable R2-D2.<br>
 <br>
+
+
 
 <img src="https://github.com/Dr0id-Dev/R2-D2/raw/main/images/r2d2-same.gif" alt="R2-D2 Image" width="200">
 
