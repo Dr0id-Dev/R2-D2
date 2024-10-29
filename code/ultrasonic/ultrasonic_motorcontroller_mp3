@@ -1,0 +1,67 @@
+import RPi.GPIO as GPIO
+import time
+from PIL import Image, ImageDraw, ImageFont
+import adafruit_ssd1306
+import board
+import busio
+import subprocess
+
+# GPIO setup
+GPIO.setmode(GPIO.BCM)
+TRIG = 23
+ECHO = 24
+MOTOR_PIN = 17
+GPIO.setup(TRIG, GPIO.OUT)
+GPIO.setup(ECHO, GPIO.IN)
+GPIO.setup(MOTOR_PIN, GPIO.OUT)
+
+# OLED setup
+i2c = busio.I2C(board.SCL, board.SDA)
+disp = adafruit_ssd1306.SSD1306_I2C(128, 32, i2c)
+disp.fill(0)
+disp.show()
+width = disp.width
+height = disp.height
+image = Image.new('1', (width, height))
+draw = ImageDraw.Draw(image)
+font = ImageFont.load_default()
+
+def measure_distance():
+    GPIO.output(TRIG, False)
+    time.sleep(0.1)
+    GPIO.output(TRIG, True)
+    time.sleep(0.00001)
+    GPIO.output(TRIG, False)
+    while GPIO.input(ECHO) == 0:
+        pulse_start = time.time()
+    while GPIO.input(ECHO) == 1:
+        pulse_end = time.time()
+    pulse_duration = pulse_end - pulse_start
+    distance = pulse_duration * 17150  # Distance in cm
+    distance = round(distance, 2)
+    return distance
+
+def display_message(message):
+    draw.rectangle((0, 0, width, height), outline=0, fill=0)
+    draw.text((0, 0), message, font=font, fill=255)
+    disp.image(image)
+    disp.show()
+
+def stop_motors():
+    GPIO.output(MOTOR_PIN, GPIO.LOW)  # Adjust as needed
+
+def play_mp3(file_path):
+    subprocess.call(['omxplayer', file_path])
+
+try:
+    while True:
+        dist = measure_distance()
+        if dist <= 2.0:
+            display_message("Object within 20mm!")
+            stop_motors()
+            play_mp3('/home/pi/alert.mp3')
+        else:
+            display_message(f"Distance: {dist} cm")
+        time.sleep(1)
+except KeyboardInterrupt:
+    GPIO.cleanup()
