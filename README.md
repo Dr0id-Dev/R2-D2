@@ -59,9 +59,9 @@
      <tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2931.jpeg" width="250" height="auto" alt="IMG_2931.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2938.jpeg" width="250" height="auto" alt="IMG_2938.jpeg"></td>
+          <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2939.jpeg" width="250" height="auto" alt="IMG_2939.jpeg"></td>
     </tr><tr>
     <tr>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2939.jpeg" width="250" height="auto" alt="IMG_2939.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2956.jpeg" width="250" height="auto" alt="IMG_2956.jpeg"></td>
     </tr>
   </table>
