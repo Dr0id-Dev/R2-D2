@@ -8,7 +8,7 @@
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/r2d2-same.gif" width="250" height="auto" alt="r2d2-same.gif"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1766.png" width="250" height="auto" alt="IMG_1766.png"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1924.jpeg" width="250" height="auto" alt="IMG_1924.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1924.jpeg" width="250" height="auto" alt="IMG_1924.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1925.jpeg" width="250" height="auto" alt="IMG_1925.jpeg"></td>
     </tr>
