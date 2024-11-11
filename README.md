@@ -9,7 +9,7 @@
     </tr>
     <tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1924.jpeg" width="250" height="auto" alt="IMG_1924.jpeg"></td>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1924.jpeg" width="250" height="auto" alt="IMG_1924.jpeg"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2685.jpeg" width="250" height="auto" alt="IMG_2685.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1925.jpeg" width="250" height="auto" alt="IMG_1925.jpeg"></td>
     </tr>
     <tr>
