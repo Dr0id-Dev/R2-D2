@@ -1,4 +1,4 @@
-# Build Log of the LOveable R2-D2 
+# Build Log of the Loveable R2-D2 
 
 <div align="center">
   <table>
