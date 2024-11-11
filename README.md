@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/output%20(1)22.jpg" width="250" height="auto" alt="output (1)22.jpg"></td>
-      ## <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/output%2033.jpg" width="250" height="auto" alt="output 33.jpg"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/output%2033.jpg" width="250" height="auto" alt="output 33.jpg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/r2d2-same.gif" width="250" height="auto" alt="r2d2-same.gif"></td>
     </tr>
     <tr>
