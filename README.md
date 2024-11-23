@@ -52,7 +52,6 @@
     </tr>
     <tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2851.jpeg" width="250" height="auto" alt="IMG_2851.jpeg"></td>
-      ## <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2895.jpeg" width="250" height="auto" alt="IMG_2895.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2936.jpeg" width="250" height="auto" alt="IMG_2936.jpeg"></td>
     </tr>
      <tr>
@@ -61,7 +60,7 @@
           <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2939.jpeg" width="250" height="auto" alt="IMG_2939.jpeg"></td>
     </tr><tr>
     <tr>
-      ## <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2956.jpeg" width="250" height="auto" alt="IMG_2956.jpeg"></td>
+     
     </tr>
   </table>
 </div>
