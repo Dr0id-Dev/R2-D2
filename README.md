@@ -20,9 +20,6 @@
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2049.jpeg" width="250" height="auto" alt="IMG_2049.jpeg"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2776.jpeg" width="250" height="auto" alt="IMG_2776.jpeg"></td>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2630.jpeg" width="250" height="auto" alt="IMG_2630.jpeg"></td>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2631.jpeg" width="250" height="auto" alt="IMG_2631.jpeg"></td>
     </tr>
      <tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2918.jpeg" width="250" height="auto" alt="IMG_2918.jpeg"></td>
