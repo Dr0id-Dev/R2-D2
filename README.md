@@ -9,6 +9,10 @@
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2776.jpeg" width="250" height="auto" alt="IMG_2776.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2630.jpeg" width="250" height="auto" alt="IMG_2630.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2631.jpeg" width="250" height="auto" alt="IMG_2631.jpeg"></td>
+   </tr>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3036.jpeg" width="250" height="auto" alt="IMG_3036.jpeg"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3037.jpeg" width="250" height="auto" alt="IMG_3037.jpeg"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3025.jpeg" width="250" height="auto" alt="IMG_3025.jpeg"></td>
     <tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_1924.jpeg" width="250" height="auto" alt="IMG_1924.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_2685.jpeg" width="250" height="auto" alt="IMG_2685.jpeg"></td>
