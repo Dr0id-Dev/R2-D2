@@ -1,9 +1,10 @@
 # Build Log of the Loveable R2-D2 
 <div align="center">
-  <table>
+</tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/r2d2-same.gif" width="250" height="auto" alt="r2d2-same.gif"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/r2d2-same.gif" width="250" height="auto" alt="r2d2-same.gif"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/r2d2-same.gif" width="250" height="auto" alt="r2d2-same.gif"></td>
+      </tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3085.jpeg" width="250" height="auto" alt="IMG_3085.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3087.jpeg" width="250" height="auto" alt="IMG_3087.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3088.jpeg" width="250" height="auto" alt="IMG_3088.jpeg"></td>  
