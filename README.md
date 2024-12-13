@@ -1,5 +1,4 @@
 # Build Log of the Loveable R2-D2 
-
 <div align="center">
   <table>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/r2d2-same.gif" width="250" height="auto" alt="r2d2-same.gif"></td>
