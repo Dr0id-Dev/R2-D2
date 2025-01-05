@@ -17,9 +17,9 @@
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3109.JPEG" width="250" height="auto" alt="IMG_3109.JPEG"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3102.JPEG" width="250" height="auto" alt="IMG_3102.JPEG"></td>
  </tr>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_31101.jpeg" width="250" height="auto" alt="IMG_3101.jpeg"></td>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3103.jpeg" width="250" height="auto" alt="IMG_3103.jpeg"></td>
-      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3087.jpeg" width="250" height="auto" alt="IMG_3087.jpeg"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3101.JPEG" width="250" height="auto" alt="IMG_3101.JPEG"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3103.JPEG" width="250" height="auto" alt="IMG_3103.JPEG"></td>
+      <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3087.JPEG" width="250" height="auto" alt="IMG_3087.JPEG"></td>
 </tr>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3085.jpeg" width="250" height="auto" alt="IMG_3085.jpeg"></td>
       <td><img src="https://github.com/Dr0id-Dev/R2-D2/blob/main/images/IMG_3087.jpeg" width="250" height="auto" alt="IMG_3087.jpeg"></td>
